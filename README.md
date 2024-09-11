@@ -35,7 +35,7 @@ f) 2,10, 12, 16, 17, 18, 19, ____
   e) 1, 1, 2, 3, 5, 8, 13
   
   f) 2,10, 12, 16, 17, 18, 19, 20
-6) Eu ligaria 1 interruptor e deixaria ligado por um tempo, desligaria ele e ligaria outro, depois iria na sala ver, o que estivesse acesso seria o que eu deixei ligado, se tivesse apagado e quente, seria o que eu liguei e desliguei, e se estivesse apagado e frio, seria o que eu não encostei
+5) Eu ligaria 1 interruptor e deixaria ligado por um tempo, desligaria ele e ligaria outro, depois iria na sala ver, o que estivesse acesso seria o que eu deixei ligado, se tivesse apagado e quente, seria o que eu liguei e desliguei, e se estivesse apagado e frio, seria o que eu não encostei
 ## Comentário
 
 Quis implementar a função de cores para reutilizar nos códigos evitando repetições, para ficar mais fácil de visualizar as respostas. Também implementei loops, para ficar mais dinâmico, e poder testar o programa várias vezes.
